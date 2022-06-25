@@ -1,3 +1,5 @@
+// A promise is an object that may produce a single value some time in the future:
+
 let f1 = function (resolve, reject) {
     // reject('Promise resolve'); 
     setTimeout(resolve, 2000);
