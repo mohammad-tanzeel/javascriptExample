@@ -12,5 +12,4 @@ console.log(typeof x== typeof y);
 console.log(typeof x);
 console.log(typeof y);
 
-
 console.log(x===y);

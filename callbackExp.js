@@ -4,7 +4,6 @@ function myCallback(sumVal){
 
 
 function myfun(a,b, callback){
-
    let sum = a+b;
     callback(sum);
 }
